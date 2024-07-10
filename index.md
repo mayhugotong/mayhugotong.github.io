@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a Ph.D. student at at [LMU Munich](https://www.lmu.de/de/index.html) supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). I am an enthusiastic AI researcher in the field of Generative AI, foundational multi-modal models, large language models, with a special focus of reasoning on temporal data such as videos, dynamic graphs, etc. Prior to my PhD, I finished my Bachelor in [Beijing Institute of Technology (BIT)](https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology) (985 Elite Union of Chinese Universities) and my Master in [Technical University of Munich (TUM)](https://www.tum.de/en/) (QS Ranking 28th worldwide) in Electrical Engineering. After that I started my PhD program fully funded by [Munich Center of Machine Learning (MCML)](https://mcml.ai/) , the German permanent AI center. I am awarded with an additional personal funding of **130,000 Euro** from the [German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/home/home_node.html) and [German Aerospace Center (DLR)](https://www.dlr.de/en), in collaboration with [Huawei Munich Research Center](https://www.huawei.com/eu/) aiming for supporting my research and cultivating me as the future tech lead.  
+I am a Ph.D. student at at [LMU Munich](https://www.lmu.de/de/index.html) supervised by [Prof. Volker Tresp](https://www.dbs.ifi.lmu.de/~tresp/). I am an enthusiastic AI researcher in the field of Generative AI, foundational multi-modal models, large language models, with a special focus of reasoning on temporal data such as videos, dynamic graphs, etc. Prior to my PhD, I finished my Bachelor in [Beijing Institute of Technology (BIT)](https://en.wikipedia.org/wiki/Beijing_Institute_of_Technology) and my Master in [Technical University of Munich (TUM)](https://www.tum.de/en/) in Electrical Engineering. After that I started my PhD program fully funded by [Munich Center of Machine Learning (MCML)](https://mcml.ai/) , the German permanent AI center. I am awarded with an additional personal funding of **130,000 Euro** from the [German Ministry of Education and Research (BMBF)](https://www.bmbf.de/bmbf/de/home/home_node.html) and [German Aerospace Center (DLR)](https://www.dlr.de/en), in collaboration with [Huawei Munich Research Center](https://www.huawei.com/eu/) aiming for supporting my research and cultivating me as the future tech lead.  
 
 
 **Please reach out if you are interested in collaborations, master thesis and research assistants!**
@@ -15,10 +15,10 @@ I am a Ph.D. student at at [LMU Munich](https://www.lmu.de/de/index.html) superv
 -  **Multi-modal Reasoning:** visual-language models, video understanding
 
 ## News
-
+-   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
 -   **[July. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
 -   **[July. 2024]** 🎉Accepted to ELLIS Summer School of [Collaborative and Generative AI (CoGenAI)](https://fcai.fi/ellis-summer-school-2024/home). See you in Helsinki!
--   **[June. 2024]** Joshua Begio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
+-   **[June. 2024]** Yoshua Begio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
 -   **[June. 2024]** Happy to be in Mexico and present our work at [NAACL2024](https://lnkd.in/dCDp5j8c).
 -   **[April. 2024]** Joint project with [Huawei Munich Research Center](https://www.huawei.com/eu/) kicked off.
 -   **[March. 2024]** 🎉Two papers accepted to [NAACL2024](https://lnkd.in/dCDp5j8c)!

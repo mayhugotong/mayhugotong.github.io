@@ -12,7 +12,7 @@ I am a Ph.D. student at at [LMU Munich](https://www.lmu.de/de/index.html) superv
 
 -  **Large Language Models:** reasoning with LLMs, evaluation, retrieval-augmented generation
 -  **Sturctured Graph Data:** (temporal) knowledge graphs, dynamic graphs, scene graphs
--  **Multi-modal Reasoning:** visual-language models, video understanding
+-  **Multi-modal Reasoning:** foundation models, visual-language models, video understanding
 
 ## News
 -   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.

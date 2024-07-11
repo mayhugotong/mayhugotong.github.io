@@ -18,7 +18,7 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 -   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
 -   **[July. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
 -   **[July. 2024]** 🎉Accepted to ELLIS Summer School of [Collaborative and Generative AI (CoGenAI)](https://fcai.fi/ellis-summer-school-2024/home). See you in Helsinki!
--   **[June. 2024]** Yoshua Begio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
+-   **[June. 2024]** Yoshua Bengio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
 -   **[June. 2024]** Happy to be in Mexico and present our work at [NAACL2024](https://lnkd.in/dCDp5j8c).
 -   **[April. 2024]** Joint project with [Huawei Munich Research Center](https://www.huawei.com/eu/) kicked off.
 -   **[March. 2024]** 🎉Two papers accepted to [NAACL2024](https://lnkd.in/dCDp5j8c)!

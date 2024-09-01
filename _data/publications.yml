@@ -36,15 +36,6 @@ main:
     notes: Oral Presentation at MATCHING@ACL23
     image: ./assets/img/ECOLA.png
 
-  - title: "GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models"
-    authors: Yuanchun Shen*, <strong>Ruotong Liao*</strong>, Zhen Han, Yunpu Ma, Volker Tresp (*Equal Contribution)
-    conference_short: Arxiv
-    conference: "ArXiv preprint arXiv:2310.08487"
-    pdf: https://arxiv.org/abs/2310.08487
-    # code: https://github.com/mayhugotong/ECOLA
-    # notes: Oral Presentation at MATCHING@ACL23
-    image: ./assets/img/graphextqa.png
-
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun (*Equal Contribution)

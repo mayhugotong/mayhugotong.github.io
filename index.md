@@ -16,7 +16,7 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 
 
 ## News
--   **[Oct. 2024]** Happy to be in Milan and present our work EchoScene (ID 309) at 10:30-12:30 on Oct 3rd at [ECCV2024](https://lnkd.in/dCDp5j8c). Welcome to drop by!
+-   **[Oct. 2024]** Happy to be in Milan and present our work **EchoScene (ID 309) at 10:30-12:30 on Oct 3rd** at [ECCV2024](https://lnkd.in/dCDp5j8c). Welcome to drop by!
 -   **[Sep. 2024]** 🎉One paper accepted to [EMNLP 2024](https://2024.emnlp.org/)!
 -   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
 -   **[July. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
@@ -35,15 +35,9 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 -   2023 **Funding Award of 130,000 euro** by BMBF(German Federal Ministry of Education and Research) and DLR (German Aerospace Center).
 -   2019 **Full Scholarship** for KSOP Master Programm at Karlsruhe Institute of Technology (KIT).
 -   2019 **Full Scholarship** for Master Programm in Optics at Friedrich Schiller University Jena.
-<<<<<<< HEAD
 -   2018 **Outstanding Student Leader** as Vice Student President at Beijing Insitiute of Technology.
 -   2018 **Chinese National third Prize** in the National Photo-electric Design Competition.
 -   2017 **Funding Award** for National College Students' Innovation and Entrepreneurship Programm.
-=======
--   2018 **Outstanding Student Leader** as Vice Student President at Beijing Institute of Technology.
--   2018 **Chinese National third Prize** in the 6th National Photo-electric Design Competition.
--   2017 **Funding Award** for National College Students Innovation and Entrepreneurship Programm.
->>>>>>> caa5ed17e12549673c10683a231daea27c3fd4d6
 -   2016 **Outstanding Student** for Undergraduates.
 -   2015 **Scholarship for First Prize** of Excellent Students for Undergraduates.
 

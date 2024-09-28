@@ -10,9 +10,10 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 
 ## Research Interests
 
--  **Large Language Models:** reasoning with LLMs, evaluation, retrieval-augmented generation
--  **Structured Graph Data:** (temporal) knowledge graphs, dynamic graphs, scene graphs
--  **Multi-modal Reasoning:** foundation models, visual-language models, video understanding
+-  **Generative AI:** LLM Agents, Reasoning with LLMs
+-  **Multi-modal Reasoning:** Foundation Models, Visual-Language Models (VLMs), Video understanding
+-  **Structured Graph Data:** (Temporal) Knowledge graphs, Dynamic Graphs, Scene graphs
+
 
 ## News
 <<<<<<< HEAD

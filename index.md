@@ -15,6 +15,8 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 -  **Multi-modal Reasoning:** foundation models, visual-language models, video understanding
 
 ## News
+-   **[Oct. 2024]** Happy to be in Milan and present our work EchoScene (ID 309) at 10:30-12:30 on Oct 3rd at [ECCV2024](https://lnkd.in/dCDp5j8c). Welcome to drop by!
+-   **[Sep. 2024]** 🎉One paper accepted to [EMNLP 2024](https://2024.emnlp.org/)!
 -   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
 -   **[July. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
 -   **[July. 2024]** 🎉Accepted to ELLIS Summer School of [Collaborative and Generative AI (CoGenAI)](https://fcai.fi/ellis-summer-school-2024/home). See you in Helsinki!
@@ -33,7 +35,7 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 -   2019 **Full Scholarship** for KSOP Master Programm at Karlsruhe Institute of Technology (KIT).
 -   2019 **Full Scholarship** for Master Programm in Optics at Friedrich Schiller University Jena.
 -   2018 **Outstanding Student Leader** as Vice Student President at Beijing Insitiute of Technology.
--   2018 **Chinese National third Prize** in the 6th National Photo-electric Design Competition.
+-   2018 **Chinese National third Prize** in the National Photo-electric Design Competition.
 -   2017 **Funding Award** for National College Students' Innovation and Entrepreneurship Programm.
 -   2016 **Outstanding Student** for Undergraduates.
 -   2015 **Scholarship for First Prize** of Excellent Student for Undergraduates.

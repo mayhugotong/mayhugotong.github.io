@@ -1,5 +1,14 @@
 main:
 
+  - title: "VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning"
+    authors: <strong>Ruotong Liao</strong>, Max Erler, Huiyu Wang, Guangyao Zhai, Gengyuan Zhang, Yunpu Ma, Volker Tresp 
+    conference_short: EMNLP 2024
+    conference: "In Findings of the Association for Computational Linguistics: <strong>EMNLP 2024</strong>. Miami, the United States. EMNLP 2024."
+    pdf: https://aclanthology.org/2024.findings-naacl.268.pdf
+    code: https://github.com/mayhugotong/VideoINSTA
+    image: ./assets/img/videoinsta.png
+    # notes: Spotlight at TGL@NeurIPS2023
+
   - title: "GenTKG: Generative Forecasting on Temporal Knowledge Graph with Large Language Models"
     authors: <strong>Ruotong Liao</strong>, Xu Jia, Yangzhe Li, Yunpu Ma, Volker Tresp 
     conference_short: NAACL 2024

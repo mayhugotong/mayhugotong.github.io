@@ -61,7 +61,7 @@ Semantic, Symbolic and Interpretable Machine Learning (SSIML@ELLIS)</autocolor><
 
 ## Fun Facts
 <ul style="margin:0 0 5px;">
-  <li><autocolor> I served as coach for National Olympiad in Informatics Programming for three years and was the co-founder of a startup for computer science education. </autocolor></li>
-  <li><autocolor> I once lead a organization committee of a concert for more than 3,000 people. </autocolor></li>
-  <li><autocolor> I won the Fifth Prize in video-making competition on Bilibili (Chinese Youtube).</autocolor></li>
+  <li><autocolor> I served as a coach for the National Olympiad in Informatics Programming for three years and was the co-founder of a startup for computer science education. </autocolor></li>
+  <li><autocolor> I once led an organization committee for a concert for more than 3,000 people. </autocolor></li>
+  <li><autocolor> I won the Fifth Prize in a video-making competition on Bilibili (Chinese YouTube).</autocolor></li>
   <!-- <li><autocolor> I serve as consultant for United Nations regarding Generative AI.</i> </autocolor></li> -->

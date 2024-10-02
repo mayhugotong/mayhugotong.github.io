@@ -18,13 +18,13 @@ I am a Ph.D. student at [LMU Munich](https://www.lmu.de/de/index.html) supervise
 ## News
 -   **[Oct. 2024]** Happy to be in Milan and present our work **EchoScene (ID 309) at 10:30-12:30 on Oct 3rd** at [ECCV2024](https://lnkd.in/dCDp5j8c). Welcome to drop by!
 -   **[Sep. 2024]** 🎉One paper accepted to [EMNLP 2024](https://2024.emnlp.org/)!
--   **[July. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
--   **[July. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
--   **[July. 2024]** 🎉Accepted to ELLIS Summer School of [Collaborative and Generative AI (CoGenAI)](https://fcai.fi/ellis-summer-school-2024/home). See you in Helsinki!
--   **[June. 2024]** Yoshua Begio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
--   **[June. 2024]** Happy to be in Mexico and present our work at [NAACL2024](https://lnkd.in/dCDp5j8c).
--   **[April. 2024]** Joint project with [Huawei Munich Research Center](https://www.huawei.com/eu/) kicked off.
--   **[March. 2024]** 🎉Two papers accepted to [NAACL2024](https://lnkd.in/dCDp5j8c)!
+-   **[Jul. 2024]** I finished the [BOSCH](www.bosch.com) Innovation & Entrepreneurship training.
+-   **[Jul. 2024]** 🎉One paper accepted to [ECCV 2024](https://eccv.ecva.net/)!
+-   **[Jul. 2024]** 🎉Accepted to ELLIS Summer School of [Collaborative and Generative AI (CoGenAI)](https://fcai.fi/ellis-summer-school-2024/home). See you in Helsinki!
+-   **[Jun. 2024]** Yoshua Begio is the speaker! We organized the ELLIS Workshop of Semantic, Symbolic and Interpretable Machine Learning [(SSIML@ELLIS)](https://ellis-ssiml.github.io/) together with [ELISE Wrap Up Conference & ELLIS Community Event](https://www.elise-ai.eu/events/elise-wrap-up-conference-ellis-community-event-27-28-june) in Helsinki.
+-   **[Jun. 2024]** Happy to be in Mexico and present our work at [NAACL2024](https://lnkd.in/dCDp5j8c).
+-   **[Api. 2024]** Joint project with [Huawei Munich Research Center](https://www.huawei.com/eu/) kicked off.
+-   **[Mar. 2024]** 🎉Two papers accepted to [NAACL2024](https://lnkd.in/dCDp5j8c)!
 -   **[Feb. 2024]** Invited Talk of _Foundation Models on Temporal Graphs_ at Semantic, Symbolic and Interpretable Machine Learning workshop hosted at the Oberwolfach Research Institute for Mathematics (MFO), Germany.
 -   **[Dec. 2023]** Invited Spotlight Talk of _Generative Forcasting on Temporal Knowlege Graph_ at [TGL@NeurIPS2023](https://sites.google.com/view/tglworkshop-2023/home). See you in New Orleans!
 -   **[Jul. 2023]** 🎉Awarded with personal funding of **130,000 euro** by BMBF and DLR to support my research and aim for future tech lead!

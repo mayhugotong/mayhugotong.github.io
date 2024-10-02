@@ -1,5 +1,13 @@
 main:
 
+  - title: "A systematic survey of prompt engineering on vision-language foundation models"
+    authors: Jindong Gu, Zhen Han, Shuo Chen, Ahmad Beirami, Bailan He, Gengyuan Zhang, **Ruotong Liao**, Yao Qin, Volker Tresp, Philip Torr 
+    conference_short: 
+    conference: arXiv preprint arXiv:2307.12980
+    pdf: https://arxiv.org/abs/2307.12980
+    code: 
+    image: ./assets/img/Survey.png
+
   - title: "VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning"
     authors: <strong>Ruotong Liao</strong>, Max Erler, Huiyu Wang, Guangyao Zhai, Gengyuan Zhang, Yunpu Ma, Volker Tresp 
     conference_short: EMNLP 2024

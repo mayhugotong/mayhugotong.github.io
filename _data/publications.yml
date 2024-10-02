@@ -10,7 +10,7 @@ main:
     # notes: Spotlight at TGL@NeurIPS2023
 
   - title: "A systematic survey of prompt engineering on vision-language foundation models"
-    authors: Jindong Gu, Zhen Han, Shuo Chen, Ahmad Beirami, Bailan He, Gengyuan Zhang, **Ruotong Liao**, Yao Qin, Volker Tresp, Philip Torr 
+    authors: Jindong Gu, Zhen Han, Shuo Chen, Ahmad Beirami, Bailan He, Gengyuan Zhang, <strong>Ruotong Liao</strong>, Yao Qin, Volker Tresp, Philip Torr 
     conference_short: 
     conference: arXiv preprint arXiv:2307.12980
     pdf: https://arxiv.org/abs/2307.12980
